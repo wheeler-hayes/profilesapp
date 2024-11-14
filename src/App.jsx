@@ -25,7 +25,7 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
         <p>
-          This Wheeler Haye's Web Application Assignment for CSCE 3420.
+          This is Wheeler Hayes's Web Application Assignment for CSCE 3420.
         </p>
       </div>
       <p className="read-the-docs">
